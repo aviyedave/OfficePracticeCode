@@ -6,6 +6,8 @@
       <class name="pomPack.TestClass">
         <methods>
           <include name="testLogin"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
         </methods>
       </class> <!-- pomPack.TestClass -->
     </classes>
