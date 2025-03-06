@@ -1,0 +1,12 @@
+[INFO ] 2025-02-25 16:40:02.381 [main] TestLogger - Browser is opened
+[INFO ] 2025-02-25 16:40:02.387 [main] TestLogger - Implicity wait of 10 sec
+[INFO ] 2025-02-25 16:40:03.596 [main] TestLogger - Logged into Myntra
+[ERROR] 2025-02-25 16:40:08.190 [main] TestLogger - Exception occurred
+java.lang.Exception: Element Not Found
+	at loggerDemo.TestLogger.main(TestLogger.java:30) [test-classes/:?]
+[INFO ] 2025-02-25 16:40:08.647 [main] TestLogger - Quitting the driver
+[INFO ] 2025-02-25 18:33:56.915 [main] TestClass - browser is opened
+[INFO ] 2025-02-25 18:33:59.804 [main] TestClass - URL is opened
+[INFO ] 2025-02-25 18:34:00.221 [main] TestClass - Username is entered
+[INFO ] 2025-02-25 18:34:00.304 [main] TestClass - Password is entered
+[INFO ] 2025-02-25 18:34:00.391 [main] TestClass - Clicked on login button
